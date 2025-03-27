@@ -1,7 +1,7 @@
 # JavaScript Learning Journey 🚀
 
 > A comprehensive roadmap from beginner to expert, with progress tracking and estimated completion times
-
+  
 ## Progress Overview
 - [ ] Stage 1: JavaScript Fundamentals (4-6 weeks)
 - [ ] Stage 2: Intermediate JavaScript (6-8 weeks)
